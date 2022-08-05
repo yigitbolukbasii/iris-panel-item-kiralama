@@ -1,0 +1,3 @@
+renttime	int	11
+rentowner	int	11
+

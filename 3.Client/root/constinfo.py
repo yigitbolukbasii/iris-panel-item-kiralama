@@ -1,0 +1,2 @@
+RENT_ITEM_Q_INDEX = 0
+#ekle

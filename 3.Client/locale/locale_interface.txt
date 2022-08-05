@@ -1,0 +1,6 @@
+EXCHANGE_RENT_INFO_0	Silah ve zırh ekipmanlarına süre belirleyip
+EXCHANGE_RENT_INFO_1	kiralayabilirsin. İşlem sonucunda nesne
+EXCHANGE_RENT_INFO_2	belirtilen süre boyunca karşı tarafta kalır.
+EXCHANGE_RENT_INFO_3	Ekipmanlarını ESC menüsünden geri alabilirsin.
+EXCHANGE_RENT_INFO_4	İşlem yaparken dikkatli olmalısın.
+SYSTEM_RENT_ITEM	Kiralık Ekipmanlar

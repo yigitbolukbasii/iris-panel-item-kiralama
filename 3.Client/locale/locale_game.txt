@@ -1,0 +1,2 @@
+TOOLTIP_RENT	[Kiralık Nesne]
+TOOLTIP_RENT_LEFT_TIME	Kalan Süre: %dH %dM
